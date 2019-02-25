@@ -1,5 +1,5 @@
 # Portfolio
-Earl Clark's Application Portfolio 
+### Earl Clark's Application Portfolio 
 
 
 
